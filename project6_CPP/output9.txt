@@ -1,0 +1,15 @@
+
+==============================================
+There are 8 nodes in the input graph
+==============================================
+Source node = 5
+The shortest paths from the source node 5 are: 
+
+The path from 5 to 1: 1 <-- 8 <-- 5: cost = 9
+The path from 5 to 2: 2 <-- 5: cost = 10
+The path from 5 to 3: 3 <-- 1 <-- 8 <-- 5: cost = 14
+The path from 5 to 4: 4 <-- 7 <-- 8 <-- 5: cost = 9
+The path from 5 to 5: 5: cost = 0
+The path from 5 to 6: 6 <-- 7 <-- 8 <-- 5: cost = 8
+The path from 5 to 7: 7 <-- 8 <-- 5: cost = 5
+The path from 5 to 8: 8 <-- 5: cost = 3

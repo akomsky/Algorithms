@@ -1,0 +1,44 @@
+listHead --> (dummy,0,d) --> (d,2,NULL)
+listHead --> (dummy,0,d) --> (d,2,f) --> (f,4,NULL)
+listHead --> (dummy,0,d) --> (d,2,f) --> (f,4,h) --> (h,15,NULL)
+listHead --> (dummy,0,d) --> (d,2,f) --> (f,4,k) --> (k,6,h) --> (h,15,NULL)
+listHead --> (dummy,0,d) --> (d,2,f) --> (f,4,k) --> (k,6,h) --> (h,15,m) --> (m,47,NULL)
+listHead --> (dummy,0,d) --> (d,2,f) --> (f,4,k) --> (k,6,h) --> (h,15,p) --> (p,25,m) --> (m,47,NULL)
+listHead --> (dummy,0,w) --> (w,1,d) --> (d,2,f) --> (f,4,k) --> (k,6,h) --> (h,15,p) --> (p,25,m) --> (m,47,NULL)
+chSt: wd
+Prob: 3
+Left: w
+Right: d
+Next: NULL
+listHead --> (wd,3,f) --> (f,4,k) --> (k,6,h) --> (h,15,p) --> (p,25,m) --> (m,47,NULL)
+chSt: wdf
+Prob: 7
+Left: wd
+Right: f
+Next: NULL
+listHead --> (k,6,wdf) --> (wdf,7,h) --> (h,15,p) --> (p,25,m) --> (m,47,NULL)
+chSt: kwdf
+Prob: 13
+Left: k
+Right: wdf
+Next: NULL
+listHead --> (kwdf,13,h) --> (h,15,p) --> (p,25,m) --> (m,47,NULL)
+chSt: kwdfh
+Prob: 28
+Left: kwdf
+Right: h
+Next: NULL
+listHead --> (p,25,kwdfh) --> (kwdfh,28,m) --> (m,47,NULL)
+chSt: pkwdfh
+Prob: 53
+Left: p
+Right: kwdfh
+Next: NULL
+listHead --> (m,47,pkwdfh) --> (pkwdfh,53,NULL)
+chSt: mpkwdfh
+Prob: 100
+Left: m
+Right: pkwdfh
+Next: NULL
+listHead --> (mpkwdfh,100,NULL)
+The root is: mpkwdfh

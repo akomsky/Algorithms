@@ -1,0 +1,112 @@
+The source node is 3
+The fatherAry is: 
+3 3 3 3 3 3 3 3 
+The bestCostAry is: 
+99999 2 0 5 99999 99999 30 10 
+The toDoAry is: 
+1 0 0 1 1 1 1 1 
+
+The source node is 3
+The fatherAry is: 
+2 3 3 3 3 3 3 3 
+The bestCostAry is: 
+27 2 0 5 99999 99999 30 10 
+The toDoAry is: 
+1 0 0 1 1 1 1 1 
+
+The source node is 3
+The fatherAry is: 
+2 3 3 3 3 3 3 2 
+The bestCostAry is: 
+27 2 0 5 99999 99999 30 4 
+The toDoAry is: 
+1 0 0 1 1 1 1 1 
+
+The source node is 3
+The fatherAry is: 
+2 3 3 3 3 3 3 2 
+The bestCostAry is: 
+27 2 0 5 99999 99999 30 4 
+The toDoAry is: 
+1 0 0 1 1 1 1 0 
+
+The source node is 3
+The fatherAry is: 
+8 3 3 3 3 3 3 2 
+The bestCostAry is: 
+10 2 0 5 99999 99999 30 4 
+The toDoAry is: 
+1 0 0 1 1 1 1 0 
+
+The source node is 3
+The fatherAry is: 
+8 3 3 3 3 8 3 2 
+The bestCostAry is: 
+10 2 0 5 99999 11 30 4 
+The toDoAry is: 
+1 0 0 1 1 1 1 0 
+
+The source node is 3
+The fatherAry is: 
+8 3 3 3 3 8 8 2 
+The bestCostAry is: 
+10 2 0 5 99999 11 6 4 
+The toDoAry is: 
+1 0 0 1 1 1 1 0 
+
+The source node is 3
+The fatherAry is: 
+8 3 3 3 3 8 8 2 
+The bestCostAry is: 
+10 2 0 5 99999 11 6 4 
+The toDoAry is: 
+1 0 0 0 1 1 1 0 
+
+The source node is 3
+The fatherAry is: 
+8 3 3 3 4 8 8 2 
+The bestCostAry is: 
+10 2 0 5 10 11 6 4 
+The toDoAry is: 
+1 0 0 0 1 1 1 0 
+
+The source node is 3
+The fatherAry is: 
+8 3 3 3 4 4 8 2 
+The bestCostAry is: 
+10 2 0 5 10 8 6 4 
+The toDoAry is: 
+1 0 0 0 1 1 1 0 
+
+The source node is 3
+The fatherAry is: 
+8 3 3 3 4 4 8 2 
+The bestCostAry is: 
+10 2 0 5 10 8 6 4 
+The toDoAry is: 
+1 0 0 0 1 1 0 0 
+
+The source node is 3
+The fatherAry is: 
+8 3 3 3 4 4 8 2 
+The bestCostAry is: 
+10 2 0 5 10 8 6 4 
+The toDoAry is: 
+1 0 0 0 1 0 0 0 
+
+The source node is 3
+The fatherAry is: 
+8 3 3 3 4 4 8 2 
+The bestCostAry is: 
+10 2 0 5 10 8 6 4 
+The toDoAry is: 
+0 0 0 0 1 0 0 0 
+
+The source node is 3
+The fatherAry is: 
+8 3 3 3 4 4 8 2 
+The bestCostAry is: 
+10 2 0 5 10 8 6 4 
+The toDoAry is: 
+0 0 0 0 0 0 0 0 
+

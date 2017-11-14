@@ -1,0 +1,128 @@
+The source node is 2
+The fatherAry is: 
+2 2 2 2 2 2 2 2 
+The bestCostAry is: 
+25 0 35 99999 99999 99999 40 2 
+The toDoAry is: 
+1 0 1 1 1 1 1 0 
+
+The source node is 2
+The fatherAry is: 
+8 2 2 2 2 2 2 2 
+The bestCostAry is: 
+8 0 35 99999 99999 99999 40 2 
+The toDoAry is: 
+1 0 1 1 1 1 1 0 
+
+The source node is 2
+The fatherAry is: 
+8 2 2 2 2 8 2 2 
+The bestCostAry is: 
+8 0 35 99999 99999 9 40 2 
+The toDoAry is: 
+1 0 1 1 1 1 1 0 
+
+The source node is 2
+The fatherAry is: 
+8 2 2 2 2 8 8 2 
+The bestCostAry is: 
+8 0 35 99999 99999 9 4 2 
+The toDoAry is: 
+1 0 1 1 1 1 1 0 
+
+The source node is 2
+The fatherAry is: 
+8 2 2 2 2 8 8 2 
+The bestCostAry is: 
+8 0 35 99999 99999 9 4 2 
+The toDoAry is: 
+1 0 1 1 1 1 0 0 
+
+The source node is 2
+The fatherAry is: 
+8 2 2 7 2 8 8 2 
+The bestCostAry is: 
+8 0 35 8 99999 9 4 2 
+The toDoAry is: 
+1 0 1 1 1 1 0 0 
+
+The source node is 2
+The fatherAry is: 
+8 2 2 7 7 8 8 2 
+The bestCostAry is: 
+8 0 35 8 34 9 4 2 
+The toDoAry is: 
+1 0 1 1 1 1 0 0 
+
+The source node is 2
+The fatherAry is: 
+8 2 2 7 7 7 8 2 
+The bestCostAry is: 
+8 0 35 8 34 7 4 2 
+The toDoAry is: 
+1 0 1 1 1 1 0 0 
+
+The source node is 2
+The fatherAry is: 
+8 2 2 7 7 7 8 2 
+The bestCostAry is: 
+8 0 35 8 34 7 4 2 
+The toDoAry is: 
+1 0 1 1 1 0 0 0 
+
+The source node is 2
+The fatherAry is: 
+8 2 6 7 7 7 8 2 
+The bestCostAry is: 
+8 0 27 8 34 7 4 2 
+The toDoAry is: 
+1 0 1 1 1 0 0 0 
+
+The source node is 2
+The fatherAry is: 
+8 2 6 7 7 7 8 2 
+The bestCostAry is: 
+8 0 27 8 34 7 4 2 
+The toDoAry is: 
+0 0 1 1 1 0 0 0 
+
+The source node is 2
+The fatherAry is: 
+8 2 1 7 7 7 8 2 
+The bestCostAry is: 
+8 0 13 8 34 7 4 2 
+The toDoAry is: 
+0 0 1 1 1 0 0 0 
+
+The source node is 2
+The fatherAry is: 
+8 2 1 7 7 7 8 2 
+The bestCostAry is: 
+8 0 13 8 34 7 4 2 
+The toDoAry is: 
+0 0 1 0 1 0 0 0 
+
+The source node is 2
+The fatherAry is: 
+8 2 1 7 4 7 8 2 
+The bestCostAry is: 
+8 0 13 8 13 7 4 2 
+The toDoAry is: 
+0 0 1 0 1 0 0 0 
+
+The source node is 2
+The fatherAry is: 
+8 2 1 7 4 7 8 2 
+The bestCostAry is: 
+8 0 13 8 13 7 4 2 
+The toDoAry is: 
+0 0 0 0 1 0 0 0 
+
+The source node is 2
+The fatherAry is: 
+8 2 1 7 4 7 8 2 
+The bestCostAry is: 
+8 0 13 8 13 7 4 2 
+The toDoAry is: 
+0 0 0 0 0 0 0 0 
+

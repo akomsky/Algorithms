@@ -1,0 +1,104 @@
+The source node is 6
+The fatherAry is: 
+6 6 6 6 6 6 6 6 
+The bestCostAry is: 
+5 5 20 99999 99999 0 2 99999 
+The toDoAry is: 
+1 1 1 1 1 0 0 1 
+
+The source node is 6
+The fatherAry is: 
+6 6 6 7 6 6 6 6 
+The bestCostAry is: 
+5 5 20 6 99999 0 2 99999 
+The toDoAry is: 
+1 1 1 1 1 0 0 1 
+
+The source node is 6
+The fatherAry is: 
+6 6 6 7 7 6 6 6 
+The bestCostAry is: 
+5 5 20 6 32 0 2 99999 
+The toDoAry is: 
+1 1 1 1 1 0 0 1 
+
+The source node is 6
+The fatherAry is: 
+6 6 6 7 7 6 6 6 
+The bestCostAry is: 
+5 5 20 6 32 0 2 99999 
+The toDoAry is: 
+0 1 1 1 1 0 0 1 
+
+The source node is 6
+The fatherAry is: 
+6 6 1 7 7 6 6 6 
+The bestCostAry is: 
+5 5 10 6 32 0 2 99999 
+The toDoAry is: 
+0 1 1 1 1 0 0 1 
+
+The source node is 6
+The fatherAry is: 
+6 6 1 7 7 6 6 1 
+The bestCostAry is: 
+5 5 10 6 32 0 2 25 
+The toDoAry is: 
+0 1 1 1 1 0 0 1 
+
+The source node is 6
+The fatherAry is: 
+6 6 1 7 7 6 6 1 
+The bestCostAry is: 
+5 5 10 6 32 0 2 25 
+The toDoAry is: 
+0 0 1 1 1 0 0 1 
+
+The source node is 6
+The fatherAry is: 
+6 6 1 7 7 6 6 2 
+The bestCostAry is: 
+5 5 10 6 32 0 2 7 
+The toDoAry is: 
+0 0 1 1 1 0 0 1 
+
+The source node is 6
+The fatherAry is: 
+6 6 1 7 7 6 6 2 
+The bestCostAry is: 
+5 5 10 6 32 0 2 7 
+The toDoAry is: 
+0 0 1 0 1 0 0 1 
+
+The source node is 6
+The fatherAry is: 
+6 6 1 7 4 6 6 2 
+The bestCostAry is: 
+5 5 10 6 11 0 2 7 
+The toDoAry is: 
+0 0 1 0 1 0 0 1 
+
+The source node is 6
+The fatherAry is: 
+6 6 1 7 4 6 6 2 
+The bestCostAry is: 
+5 5 10 6 11 0 2 7 
+The toDoAry is: 
+0 0 1 0 1 0 0 0 
+
+The source node is 6
+The fatherAry is: 
+6 6 1 7 4 6 6 2 
+The bestCostAry is: 
+5 5 10 6 11 0 2 7 
+The toDoAry is: 
+0 0 0 0 1 0 0 0 
+
+The source node is 6
+The fatherAry is: 
+6 6 1 7 4 6 6 2 
+The bestCostAry is: 
+5 5 10 6 11 0 2 7 
+The toDoAry is: 
+0 0 0 0 0 0 0 0 
+
